@@ -4,6 +4,8 @@ console.log("Ultimo");
 
 // Console.LOG não existe, javascript é case sensivite
 
+
+// Declara uma variavel
 var a = 1;
 
 a = 'teste';
